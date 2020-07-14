@@ -1,6 +1,6 @@
 # Dog Blog
 
-#### A front-end, simplistic blog for learning the basics of HTML and CSS , 6 January 2019
+#### A front-end, simplistic blog for learning the basics of HTML and CSS , 6 January 2020
 
 #### By Jamison Cozart & Brandan Sayarath
 
